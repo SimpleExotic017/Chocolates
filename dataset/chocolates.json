@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Callebaut 70% Dark",
+    "description": "Een rijke donkere chocolade met een intens cacaogehalte en tonen van fruitige zuren.",
+    "cocoaPercentage": 70,
+    "isOrganic": false,
+    "originDate": "2001-07-14",
+    "imageUrl": "https://images.unsplash.com/photo-1514950151840-4fdb40f7abc5",
+    "type": "dark",
+    "flavors": ["fruitig", "intens", "bitterzoet"],
+    "beanOrigin": {
+      "id": 201,
+      "country": "Côte d'Ivoire",
+      "region": "Bas-Sassandra",
+      "averageAnnualRainfall": 1500,
+      "famousFor": ["Intense cocoa flavor", "High fat content"],
+      "imageUrl": "https://images.unsplash.com/photo-1573883432428-718dc0af94f4"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Callebaut 54.5% Milk",
+    "description": "Melkchocolade met een evenwichtige smaak en romige textuur, perfect voor desserts.",
+    "cocoaPercentage": 54.5,
+    "isOrganic": false,
+    "originDate": "2005-03-08",
+    "imageUrl": "https://images.unsplash.com/photo-1563225409-97e642866fb1",
+    "type": "milk",
+    "flavors": ["romig", "mild", "zoet"],
+    "beanOrigin": {
+      "id": 202,
+      "country": "Ghana",
+      "region": "Ashanti",
+      "averageAnnualRainfall": 1300,
+      "famousFor": ["Rich aroma", "Smooth finish"],
+      "imageUrl": "https://images.unsplash.com/photo-1596936048198-1c9027739dca"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Callebaut 85% Extra Dark",
+    "description": "Zeer intense pure chocolade voor liefhebbers van krachtige cacao.",
+    "cocoaPercentage": 85,
+    "isOrganic": true,
+    "originDate": "2010-11-21",
+    "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52",
+    "type": "dark",
+    "flavors": ["krachtig", "bitter", "aardachtig"],
+    "beanOrigin": {
+      "id": 203,
+      "country": "Ecuador",
+      "region": "Los Ríos",
+      "averageAnnualRainfall": 1800,
+      "famousFor": ["Floral notes", "Complex aroma"],
+      "imageUrl": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Callebaut White Velvet",
+    "description": "Zachte witte chocolade met een romige textuur en subtiele vanilletonen.",
+    "cocoaPercentage": 28,
+    "isOrganic": false,
+    "originDate": "2003-05-17",
+    "imageUrl": "https://images.unsplash.com/photo-1587131782738-de40a6d57a24",
+    "type": "white",
+    "flavors": ["vanille", "romig", "zoet"],
+    "beanOrigin": {
+      "id": 204,
+      "country": "Peru",
+      "region": "San Martín",
+      "averageAnnualRainfall": 1600,
+      "famousFor": ["Smooth cocoa butter", "Mild taste"],
+      "imageUrl": "https://images.unsplash.com/photo-1590080877777-7f6a9d8c95b4"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Callebaut Ruby RB1",
+    "description": "Unieke ruby chocolade met natuurlijke roze kleur en frisse fruitige smaak.",
+    "cocoaPercentage": 47.3,
+    "isOrganic": false,
+    "originDate": "2017-09-05",
+    "imageUrl": "https://images.unsplash.com/photo-1612198790700-0ff3b45f1d7b",
+    "type": "ruby",
+    "flavors": ["fruitig", "zuur", "fris"],
+    "beanOrigin": {
+      "id": 205,
+      "country": "Brazil",
+      "region": "Bahia",
+      "averageAnnualRainfall": 1400,
+      "famousFor": ["Balanced acidity", "Red fruit notes"],
+      "imageUrl": "https://images.unsplash.com/photo-1604328698692-f76ea9498e76"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Callebaut 33% Milk",
+    "description": "Klassieke melkchocolade met een zachte smaak, ideaal voor patisserie.",
+    "cocoaPercentage": 33,
+    "isOrganic": false,
+    "originDate": "1998-02-12",
+    "imageUrl": "https://images.unsplash.com/photo-1548907040-4baa42d10919",
+    "type": "milk",
+    "flavors": ["zacht", "romig", "karamel"],
+    "beanOrigin": {
+      "id": 202,
+      "country": "Ghana",
+      "region": "Ashanti",
+      "averageAnnualRainfall": 1300,
+      "famousFor": ["Rich aroma", "Smooth finish"],
+      "imageUrl": "https://images.unsplash.com/photo-1596936048198-1c9027739dca"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Callebaut 60% Dark",
+    "description": "Evenwichtige pure chocolade met een zachte bitterheid.",
+    "cocoaPercentage": 60,
+    "isOrganic": true,
+    "originDate": "2007-06-30",
+    "imageUrl": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60",
+    "type": "dark",
+    "flavors": ["evenwichtig", "licht bitter", "cacao"],
+    "beanOrigin": {
+      "id": 206,
+      "country": "Colombia",
+      "region": "Santander",
+      "averageAnnualRainfall": 1700,
+      "famousFor": ["Nutty notes", "Low acidity"],
+      "imageUrl": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Callebaut Caramel Gold",
+    "description": "Karamelchocolade met rijke botertoetsen en een diepe amberkleur.",
+    "cocoaPercentage": 30,
+    "isOrganic": false,
+    "originDate": "2012-10-19",
+    "imageUrl": "https://images.unsplash.com/photo-1604909053191-7e3a4c4a1c14",
+    "type": "milk",
+    "flavors": ["karamel", "boterachtig", "zoet"],
+    "beanOrigin": {
+      "id": 207,
+      "country": "Mexico",
+      "region": "Tabasco",
+      "averageAnnualRainfall": 2000,
+      "famousFor": ["Deep cocoa taste", "Traditional varieties"],
+      "imageUrl": "https://images.unsplash.com/photo-1615484478243-c94e896ed6db"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Callebaut Dark Orange",
+    "description": "Pure chocolade verrijkt met natuurlijke sinaasappeltoetsen.",
+    "cocoaPercentage": 55,
+    "isOrganic": false,
+    "originDate": "2015-04-11",
+    "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52",
+    "type": "dark",
+    "flavors": ["citrus", "fruitig", "fris"],
+    "beanOrigin": {
+      "id": 203,
+      "country": "Ecuador",
+      "region": "Los Ríos",
+      "averageAnnualRainfall": 1800,
+      "famousFor": ["Floral notes", "Complex aroma"],
+      "imageUrl": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Callebaut Dark Hazelnut",
+    "description": "Pure chocolade met geroosterde hazelnoten voor extra crunch.",
+    "cocoaPercentage": 64,
+    "isOrganic": false,
+    "originDate": "2018-01-25",
+    "imageUrl": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb",
+    "type": "dark",
+    "flavors": ["nootachtig", "intens", "rijk"],
+    "beanOrigin": {
+      "id": 206,
+      "country": "Colombia",
+      "region": "Santander",
+      "averageAnnualRainfall": 1700,
+      "famousFor": ["Nutty notes", "Low acidity"],
+      "imageUrl": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 201,
+    "country": "Côte d'Ivoire",
+    "region": "Bas-Sassandra",
+    "averageAnnualRainfall": 1500,
+    "famousFor": ["Intense cocoa flavor", "High fat content"],
+    "imageUrl": "https://images.unsplash.com/photo-1573883432428-718dc0af94f4"
+  },
+  {
+    "id": 202,
+    "country": "Ghana",
+    "region": "Ashanti",
+    "averageAnnualRainfall": 1300,
+    "famousFor": ["Rich aroma", "Smooth finish"],
+    "imageUrl": "https://images.unsplash.com/photo-1596936048198-1c9027739dca"
+  },
+  {
+    "id": 203,
+    "country": "Ecuador",
+    "region": "Los Ríos",
+    "averageAnnualRainfall": 1800,
+    "famousFor": ["Floral notes", "Complex aroma"],
+    "imageUrl": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519"
+  },
+  {
+    "id": 204,
+    "country": "Peru",
+    "region": "San Martín",
+    "averageAnnualRainfall": 1600,
+    "famousFor": ["Smooth cocoa butter", "Mild taste"],
+    "imageUrl": "https://images.unsplash.com/photo-1590080877777-7f6a9d8c95b4"
+  },
+  {
+    "id": 205,
+    "country": "Brazil",
+    "region": "Bahia",
+    "averageAnnualRainfall": 1400,
+    "famousFor": ["Balanced acidity", "Red fruit notes"],
+    "imageUrl": "https://images.unsplash.com/photo-1604328698692-f76ea9498e76"
+  },
+  {
+    "id": 206,
+    "country": "Colombia",
+    "region": "Santander",
+    "averageAnnualRainfall": 1700,
+    "famousFor": ["Nutty notes", "Low acidity"],
+    "imageUrl": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6"
+  },
+  {
+    "id": 207,
+    "country": "Mexico",
+    "region": "Tabasco",
+    "averageAnnualRainfall": 2000,
+    "famousFor": ["Deep cocoa taste", "Traditional varieties"],
+    "imageUrl": "https://images.unsplash.com/photo-1615484478243-c94e896ed6db"
+  }
+]
